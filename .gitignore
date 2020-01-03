@@ -1,0 +1,10 @@
+target
+*.class
+
+.metals/
+.bloop/
+.vscode
+project/
+.idea
+main.log
+CustomerRecord.csv
